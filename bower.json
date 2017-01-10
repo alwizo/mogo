@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "description": "radio",
+  "main": "index.js",
+  "authors": [
+    "Alex Vilchanski <alwizo.com@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "radio"
+  ],
+  "homepage": "https://github.com/zellwk/gulp-starter-csstricks",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7"
+  }
+}
