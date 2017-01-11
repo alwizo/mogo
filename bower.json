@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "description": "radio",
+  "description": "glivera-test-1",
   "main": "index.js",
   "authors": [
     "Alex Vilchanski <alwizo.com@gmail.com>"
@@ -17,8 +17,11 @@
     "test",
     "tests"
   ],
-  "dependencies": {},
-  "devDependencies": {
-    "bootstrap-sass": "bootstrap-sass-official#^3.3.7"
-  }
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize-css": "^5.0.0",
+    "modernizer": "^2.8.2",
+    "masonry": "^4.1.1"
+  },
+  "devDependencies": {}
 }
